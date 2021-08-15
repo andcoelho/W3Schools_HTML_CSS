@@ -1,0 +1,18 @@
+
+a:link, a:visited{
+	font-family: arial;
+	background-color: #09A129;
+	color: white;
+	padding: 15px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	
+}
+
+a:hover, a:active{
+	background: #036D19;
+}
+
+
+	

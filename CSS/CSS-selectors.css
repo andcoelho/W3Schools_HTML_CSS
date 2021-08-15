@@ -1,0 +1,136 @@
+*{
+	background-color: #161a1d;
+}
+
+#h1title{
+	color: #f5f3f4;
+	text-align: center;
+	font-family: arial;
+}
+
+.classone{
+	font-family: arial;
+	font-size: 30px;
+	color: #B7094C;
+}
+
+#idone{
+	font-size:30px;
+	font-family: arial;
+	color:#a01a58;
+	font-weight: bold;
+	
+}
+
+#idtwo{
+	font-size:30px;
+	font-family: arial;
+	color: #892b64;
+	font-weight: bold;
+}
+
+#idthree{
+	font-size:30px;
+	font-family: arial;
+	color: #723c70;
+	font-weight: bold;
+}
+
+#idfour{
+	font-size:30px;
+	font-family: arial;
+	color: #5c4d7d;
+	font-weight: bold;
+}
+
+#idfive{
+	font-size:30px;
+	font-family: arial;
+	color: #455E89;
+	font-weight: bold;
+}
+
+#idsix{
+	font-size:30px;
+	font-family: arial;
+	color: #2e6f95;
+	font-weight: bold;
+}
+
+#idseven{
+	font-size:30px;
+	font-family: arial;
+	color: #1780A1;
+	font-weight: bold;
+}
+
+#ideight{
+	font-size:30px;
+	font-family: arial;
+	color: #0091AD;
+	font-weight: bold;
+}
+
+#id2one{
+	font-size:30px;
+	font-family: arial;
+	background-color:#a01a58;
+	font-weight: bold;
+	
+}
+
+#id2two{
+	font-size:30px;
+	font-family: arial;
+	background-color: #892b64;
+	font-weight: bold;
+}
+
+#id2three{
+	font-size:30px;
+	font-family: arial;
+	background-color: #723c70;
+	font-weight: bold;
+}
+
+#id2four{
+	font-size:30px;
+	font-family: arial;
+	background-color: #5c4d7d;
+	font-weight: bold;
+}
+
+#id2five{
+	font-size:30px;
+	font-family: arial;
+	background-color: #455E89;
+	font-weight: bold;
+}
+
+#id2six{
+	font-size:30px;
+	font-family: arial;
+	background-color: #2e6f95;
+	font-weight: bold;
+}
+
+#id2seven{
+	font-size:30px;
+	font-family: arial;
+	background-color: #1780A1;
+	font-weight: bold;
+}
+
+#id2eight{
+	font-size:30px;
+	font-family: arial;
+	background-color: #0091AD;
+	font-weight: bold;
+}
+
+#id2nine{
+	font-size:30px;
+	font-family: arial;
+	background-color: #0091AD;
+	font-weight: bold;
+}

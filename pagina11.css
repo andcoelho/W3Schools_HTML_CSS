@@ -1,0 +1,30 @@
+/**CSS page**/
+
+a:link{
+	color: #EDA2C0;
+	background-color: none;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #BF9ACA;
+	background-color: none;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: #8e4162;
+	background-color: none;
+	text-decoration: underline;
+}
+
+a:active{
+	color: #C7E8F3;
+	background-color: none;
+	text-decoration: underline;
+}
+
+p{
+	font-family:arial;
+	font-size: 20px;
+}
